@@ -1,2 +1,4 @@
 # codility
-Codility solutions 
+Lessons from Codility implemented in Scala.
+
+
