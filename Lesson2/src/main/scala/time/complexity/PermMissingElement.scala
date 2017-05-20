@@ -5,7 +5,7 @@ package time.complexity
 //Correctness 100 %
 //Performance 60 %
 
-object Solution {
+ object PermMissingElement {
   def solution(a: Array[Int]): Int = {
     def getMissValue(l: List[Int]): Int = l match {
       case Nil => 1
