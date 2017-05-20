@@ -5,7 +5,7 @@ package arrays
 // Performance 25 %
 
 //Task score 66 %
-object OddOccurrencesInArray {
+object OddOccurrencesInArray extends App {
 
   def solution(a: Array[Int]): Int = {
     def xxx(l: List[Int]): Int = {
