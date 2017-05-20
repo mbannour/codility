@@ -7,4 +7,5 @@ Arrays:
  
 Time Complexity:
  - PermMissingElem: 80%
+ -TapeEquilibrium: 66%
 
