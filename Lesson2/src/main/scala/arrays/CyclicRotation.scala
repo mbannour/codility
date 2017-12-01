@@ -1,9 +1,10 @@
 package arrays
 
+/*
+ Correctness 100%
 
-// Correctness 100%
-
-//Task score 100 %
+ Task score 100 %
+ */
 
 object CyclicRotation {
 

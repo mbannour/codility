@@ -1,4 +1,4 @@
-name := "FP-in-Scala"
+name := "codility"
 
 version := "1.0"
 
